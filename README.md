@@ -118,22 +118,21 @@ http://localhost:8080
 
 ### 🏠 Dashboard
 > Live stats with animated counters, department bar chart, and active vs inactive donut chart
-
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/user-attachments/assets/2816da91-fc25-4f52-84c3-71d82f3c86ba)
 
 ---
 
 ### 👥 Employees List
 > Search, filter by department/status, sort, paginate with action buttons
 
-![Employees List](screenshots/employees.png)
+![Employees List](https://github.com/user-attachments/assets/d3ad8353-2c48-4266-a85c-be44ce6c4e98)
 
 ---
 
 ### ➕ Add / Edit Employee
 > Clean form with validation — name, email, department, salary, location, joining date
 
-![Add Employee](screenshots/add-employee.png)
+![Add Employee](https://github.com/user-attachments/assets/7d10bb0c-52d8-4e7a-8938-8b6519596714)
 
 ---
 
