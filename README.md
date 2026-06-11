@@ -19,18 +19,18 @@ A professional Employee Management System built with **Spring Boot MVC**, **JSP*
 
 ## 🛠️ Tech Stack
 
-| Layer       | Technology                        |
-|-------------|-----------------------------------|
-| Backend     | Java 17, Spring Boot 2.7.15       |
-| MVC         | Spring Web MVC                    |
-| ORM         | Spring Data JPA, Hibernate        |
-| Database    | MySQL 8                           |
-| View        | JSP, JSTL                        |
-| Frontend    | HTML5, CSS3, Vanilla JS           |
-| Charts      | Chart.js 4.4                      |
-| Icons       | Font Awesome 6.5                  |
-| Build       | Maven                             |
-| Lombok      | Yes                               |
+| Layer    | Technology                  |
+| -------- | --------------------------- |
+| Backend  | Java 17, Spring Boot 2.7.15 |
+| MVC      | Spring Web MVC              |
+| ORM      | Spring Data JPA, Hibernate  |
+| Database | MySQL 8                     |
+| View     | JSP, JSTL                   |
+| Frontend | HTML5, CSS3, Vanilla JS     |
+| Charts   | Chart.js 4.4                |
+| Icons    | Font Awesome 6.5            |
+| Build    | Maven                       |
+| Lombok   | Yes                         |
 
 ---
 
@@ -71,6 +71,7 @@ ModernEmployeeTracker/
 ## ⚙️ Setup & Run
 
 ### Prerequisites
+
 - Java 17+
 - Maven 3.6+
 - MySQL 8+
@@ -115,14 +116,24 @@ http://localhost:8080
 
 ## 📸 Screenshots
 
-### Dashboard
-> Live stats, animated counters, department bar chart, active vs inactive donut chart
+### 🏠 Dashboard
+> Live stats with animated counters, department bar chart, and active vs inactive donut chart
 
-### Employees List
-> Search, filter, sort, paginate with action buttons
+![Dashboard](screenshots/dashboard.png)
 
-### Add / Edit Employee
-> Clean form with validation
+---
+
+### 👥 Employees List
+> Search, filter by department/status, sort, paginate with action buttons
+
+![Employees List](screenshots/employees.png)
+
+---
+
+### ➕ Add / Edit Employee
+> Clean form with validation — name, email, department, salary, location, joining date
+
+![Add Employee](screenshots/add-employee.png)
 
 ---
 
